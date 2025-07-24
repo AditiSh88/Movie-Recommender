@@ -1,0 +1,90 @@
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pkl
+*.pickle
+*.log
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# Streamlit
+.streamlit/config.toml
+.streamlit/credentials.toml
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+*.iml
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.db
+*.sqlite3
+*.sqlite3-journal
+
+# Build and Packaging
+build/
+dist/
+downloads/
+.eggs/
+*.egg
+*.egg-info/
+MANIFEST
+
+# Testing and Coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.pytest_cache/
+.hypothesis/
+
+# Logs
+logs/
+*.log
+
+# Linters and Type Checkers
+.ruff_cache/
+.mypy_cache/
+.pyre/
+.pytype/
+
+# PyPI configuration file
+.pypirc
+
+# Others
+*.bak
+*.tmp
+*.swp
+*.swo
+*.swn
